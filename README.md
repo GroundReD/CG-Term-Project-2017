@@ -15,15 +15,15 @@
 
 ### 3. 구현 목록
 #### CG
-1. 잠만보, 몬스터볼 object
-3. 몬스터볼 이동, 튕김, 확대, 회전
-5. 잠만보와 몬스터볼의 충돌 인식
-6. 카메라 이동, zoom
-7. skybox
+    1. 잠만보, 몬스터볼 object
+    3. 몬스터볼 이동, 튕김, 확대, 회전
+    5. 잠만보와 몬스터볼의 충돌 인식
+    6. 카메라 이동, zoom
+    7. skybox
 #### Android
-1. Touch Event : 터치 시 ball drag, move, throw
-2. Background Music 삽입
-2. Action Bar 버튼으로 Ball picking mode, Camera mode 변환  
+    1. Touch Event : 터치 시 ball drag, move, throw
+    2. Background Music 삽입
+    2. Action Bar 버튼으로 Ball picking mode, Camera mode 변환  
 
     
 
